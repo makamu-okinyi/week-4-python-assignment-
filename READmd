@@ -1,0 +1,46 @@
+# Week 4 Python Assignment – File Processor
+
+# What it Does
+This is a simple Python program that lets you:
+- Open and read a text file
+- Change its content (make it UPPERCASE, lowercase, count words, or reverse text)
+- Save the modified version in a new file
+
+---
+
+# How to Use
+1. Clone the repo:
+   ```bash
+     git clone https://github.com/makamu-okinyi/week-4-python-assignment-.git
+   cd week-4-python-assignment-
+2. Run the script:
+
+bash
+Copy
+Edit
+python file_processor.py
+3. Type the name of a file you want to process (e.g., notes.txt).
+
+4. Pick an option:
+
+1 → UPPERCASE
+
+2 → lowercase
+
+3 → count words
+
+4 → reverse content
+
+5. The result will be saved in a new file called:
+
+php-template
+Copy
+Edit
+modified_<filename>
+⚠️ Notes
+Make sure the file you want to process is in the same folder.
+
+The program will tell you if the file doesn’t exist or you don’t have permission.
+
+Author
+Made by Makamu Okinyi for Week 4 Python assignment.
